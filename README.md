@@ -62,7 +62,6 @@
 
 ---
 
----
 
 [website]: https://nicohardmeier.github.io/reactPortfolio/ 
 [linkedin]: https://www.linkedin.com/in/nicolas-hardmeier/
