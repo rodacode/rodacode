@@ -1,7 +1,8 @@
-### Hi there, I'm Nicolas Hardmeier 👋
+### Hi there, I'm Nicolas Hardmeier, Front-end developer 👋
 
-## I'm a Front-end developer
 ![hippo](https://media.giphy.com/media/gh0RRgkTXedvF0pDc0/source.gif)
+
+- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
 
 
 ### Connect with me:
