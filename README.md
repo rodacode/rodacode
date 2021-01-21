@@ -1,9 +1,8 @@
 ### Hi there, I'm Nicolas Hardmeier 👋
 
 ## I'm a Front-end developer
+![hippo](https://media.giphy.com/media/gh0RRgkTXedvF0pDc0/source.gif)
 
-[<img align="center" alt="Nico Social | LinkedIn" width="300px" src="
-https://media.giphy.com/media/gh0RRgkTXedvF0pDc0/source.gif" />][linkedin]
 
 ### Connect with me:
 
