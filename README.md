@@ -2,7 +2,8 @@
 
 ## I'm a Front-end developer
 
-
+[<img align="center" alt="Nico Social | LinkedIn" width="300px" src="
+https://media.giphy.com/media/gh0RRgkTXedvF0pDc0/source.gif" />][linkedin]
 
 ### Connect with me:
 
