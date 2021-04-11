@@ -1,6 +1,6 @@
 ### Hi there, I'm Nicolas Hardmeier, Front-end developer 👋
 
-[<img width="220px" src="https://media.giphy.com/media/gh0RRgkTXedvF0pDc0/source.gif" />]
+<img width="320px" src="https://media.giphy.com/media/gh0RRgkTXedvF0pDc0/source.gif" />
 
 
 ### Connect with me:
