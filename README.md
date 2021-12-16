@@ -1,12 +1,4 @@
-### Hi there, I'm Nicolas Hardmeier, Front-end developer 👋
-
-<img width="320px" src="https://media.giphy.com/media/gh0RRgkTXedvF0pDc0/source.gif" />
-
-
-### Connect with me:
-
-[<img align="left" alt="Nico Social" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Nico Social | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+### Hi there, I'm Nico, Front-end developer 👋
 
 <br />
 
